@@ -127,7 +127,7 @@ To reproduce this project:
 
 2. Create a new MySQL database.
 
-3. Update the file paths in 02_load_data.sql to match your local dataset location.
+3. Update the file paths in `02_load_data.sql` to match your local dataset location.
 
 4. Execute the SQL scripts in the following order:
 
@@ -151,9 +151,9 @@ Database Design.md
 
 Additional documentation is available in:
 
-- **[Project Overview](Project_Overview.md)** – Overview of the project workflow, ETL process, data profiling, preparation methodology, and business analysis.
+- **[project-overview](project-overview.md)** – Overview of the project workflow, ETL process, data profiling, preparation methodology, and business analysis.
 
-- **[Database Design](Database_Design.md)** – Database schema, table relationships, and design decisions.
+- **[database-design](database-design.md)** – Database schema, table relationships, and design decisions.
 
 
 ## Acknowledgements
